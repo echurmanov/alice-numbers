@@ -9,11 +9,11 @@ const sessionsData = {};
 const characters = {
     dog: ['щенок', 'собака', 'собачка', 'щеночек', 'пес', 'песик'],
     cat: ['котенок', 'кот', 'котик', 'кошка', 'кошечка', 'котеночек', 'киска']
-    //pig: ['поросенок', 'свинка', 'свинья', 'свинюшка', 'поросеночек', 'хрюшка'],
+    pig: ['поросенок', 'свинка', 'свинья', 'свинюшка', 'поросеночек', 'хрюшка'],
     //cow: ['коровка', 'корова', 'теленок', 'бык', 'бычек']
 };
 
-const allCharactersNames = [...characters.dog, ...characters.cat/*, ...characters.pig, ...characters.cow*/];
+const allCharactersNames = [...characters.dog, ...characters.cat, ...characters.pig/*, ...characters.cow*/];
 console.log(allCharactersNames);
 
 const { loggingMiddleware, button } = Alice;

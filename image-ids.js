@@ -19,6 +19,16 @@ const imageIds = {
     "table-cat-7": "1030494/949dcc59a86827a256be",
     "table-cat-8": "1030494/5c36d8cb7291e10df26b",
     "table-cat-9": "965417/a4b8d85156d810f66e2a",
+    "table-pig-0": "1030494/5426a43e73d5dd58a2bc",
+    "table-pig-1": "213044/d90b5f6df305c165de73",
+    "table-pig-2": "1030494/d57eaccf3f0cde630a2e",
+    "table-pig-3": "213044/981ce88e915e95e47b32",
+    "table-pig-4": "1030494/a6f6d70288690466013b",
+    "table-pig-5": "213044/5a2131bf585d80297d49",
+    "table-pig-6": "1030494/dd26f74481069ccc3781",
+    "table-pig-7": "1030494/0ea2faacd214b6f6f1af",
+    "table-pig-8": "1030494/9ab2998342862ab41ad7",
+    "table-pig-9": "213044/1d2a567c4d0ee26f4ae6",
 };
 
 module.exports = imageIds;
