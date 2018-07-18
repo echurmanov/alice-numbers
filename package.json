@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "yandex-dialogs-sdk": "fletcherist/yandex-dialogs-sdk"
+    "nodemon": "^1.18.3",
+    "yandex-dialogs-sdk": "*"
   }
 }
