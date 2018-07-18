@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "yandex-dialogs-sdk": "fletcherist/yandex-dialogs-sdk"
+  }
+}
